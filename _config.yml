@@ -7,7 +7,7 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Colin Bradley | Personal Website"
+title                    : "Colin Edwin Bradley | Personal Website"
 title_separator          : "-"
 name                     : &name "Colin"
 description              : &description "Data Scientist and sometimes photographer. Interested in the intersection between machine learning and urban science and operations research."
