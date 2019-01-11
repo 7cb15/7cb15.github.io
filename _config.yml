@@ -7,7 +7,7 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Colin Edwin Bradley | Personal Website"
+title                    : "Colin Bradley | Personal Website"
 title_separator          : "-"
 name                     : &name "Colin"
 description              : &description "Data Scientist and sometimes photographer. Interested in the intersection between machine learning and urban science and operations research."
@@ -82,7 +82,7 @@ analytics:
 author:
   name             : "Colin Bradley"
   avatar           : "DSC_8969.jpg"
-  bio              : "Data Scientist and sometimes photographer. Interested in the intersection between machine learning and urban science and operations research."
+  bio              : "Data Scientist and sometimes photographer. Interested in applying machine learning to urban science, marketing strategy, and operations research."
   location         : "Brooklyn, NY, US"
   employer         :
   googlescholar    : 
