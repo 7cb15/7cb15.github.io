@@ -10,7 +10,7 @@ locale                   : "en-US"
 title                    : "Colin Bradley | Personal Website"
 title_separator          : "-"
 name                     : &name "Colin"
-description              : &description "Data Scientist and sometimes photographer. Interested in the intersection between machine learning and urban science and operations research"
+description              : &description "Data Scientist and sometimes photographer. Interested in the intersection between machine learning and urban science and operations research."
 url                      : https://7cb15.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "academicpages/7cb15.github.io"
@@ -81,12 +81,12 @@ analytics:
 # Site Author
 author:
   name             : "Colin Bradley"
-  avatar           : "profile.png"
-  bio              : "Your biography for the left-hand sidebar"
+  avatar           : "DSC_8969.jpg"
+  bio              : "Data Scientist and sometimes photographer. Interested in the intersection between machine learning and urban science and operations research."
   location         : "Brooklyn, NY, US"
   employer         :
-  googlescholar    : "http://yourfullgooglescholarurl.com"
-  email            :
+  googlescholar    : 
+  email            : "colin.bradley89@gmail.com"
   researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
   uri              :
   bitbucket        :
@@ -98,21 +98,21 @@ author:
   github           : "7cb15"
   google_plus      :
   keybase          :
-  instagram        :
+  instagram        : "https://www.instagram.com/cbrad29/"
   lastfm           :
   linkedin         : "https://www.linkedin.com/in/colin-bradley-6131a038/"
-  orcid            : "http://orcid.org/yourorcidurl"
+  orcid            : 
   pinterest        :
   soundcloud       :
   stackoverflow    : # http://stackoverflow.com/users/123456/username
   steam            :
   tumblr           :
-  twitter          : "replacethistwitterhandle"
+  twitter          : 
   vine             :
   weibo            :
   xing             :
   youtube          :
-  wikipedia        :
+  wikipedia        : 
 
 
 # Reading Files
