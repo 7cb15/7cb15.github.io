@@ -12,6 +12,8 @@ I'm Colin. This is my little corner of the internet where I post about what I am
 
 I am passionate about applying data science to a diverse range of fields, but I tend to gravitate towards problems that involve operations research, customer-level marketing strategy, and urban science. 
 
+I also like to explore and document with my camera and make a mess in the kitchen, so from time to time I will post about those things too.
+
 You can find more detail on my programming projects [on my Github page](https://github.com/7cb15).
 
 What I'm Working On Right Now
