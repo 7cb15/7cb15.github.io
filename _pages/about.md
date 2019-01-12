@@ -19,7 +19,7 @@ What I'm Working On Right Now
 
 Excited to start the Spring Semester of my Master of Science program at [NYU CUSP](http://cusp.nyu.edu/). Course work this semester includes: Applied machine learning, deep learning, big data management platforms (Spark, Hadoop, Hive), and a course on processing and analyzing remote sensing data (image, video, sound, high frequency gps, etc).
 
-Coding
+# Coding
 
 I continue to collaborate on projects with [ARGO Labs](http://www.argolabs.org/) as a Data Science Intern. We're wrapping up a project that predicts [snow water equivalent in the Sierra Mountains](https://github.com/California-Data-Collaborative/snowbot), including a bot that posts the daily estimates to Twitter.
 
@@ -29,15 +29,15 @@ As always, I'm playing around in the [Kaggle](https://www.kaggle.com/) sandbox, 
 
 Some other data sets I am currently playing with: [GDELT](https://gdeltproject.org), [Google Earth Engine](https://earthengine.google.com/), and [Global Fishing watch](https://globalfishingwatch.org/datasets-and-code/). 
 
-Camera
+# Camera
 
 Since I'm living in Brooklyn I thought it would be fitting to work on a photo project highlighting American cities. This is one-part an excuse to travel to cities around the country and one-part an excuse to get better at architecture photography. Upcoming cities to document include Philadelphia and Baltimore.
 
-Cooking
+# Cooking
 
 I am currently turning my apartment into a mini-culinary lab while I test homemade recipes for kimchi, preserved lemons and other pickled things. Provided no mason jars explode, updates with pictures and recipes are coming soon.
 
 Working Together
 ======
 
-If you are interested in collaborating on a project or working together professionally, please reach out by email!
+I'm always excited at the prospect of working with new people on complex and important problems. If you are interested in collaborating on a project or working together professionally, please reach out by email!
