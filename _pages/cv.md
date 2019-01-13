@@ -33,7 +33,7 @@ Technical Skills
 * Programming Languages:
   * Python (e.g. Keras, Matplotlib, NetworkX, Numpy, Pandas, Sci-kit Learn)
   * D3.js
-* Big Data Tools:
+* Data Processing Tools:
   * Hadoop
   * Hive
   * NoSQL
