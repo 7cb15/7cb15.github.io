@@ -11,35 +11,35 @@ redirect_from:
 
 Education
 ======
-* MS in Applied Urban Science and Informatics | New York University | New York, NY | 2018 – 2019
-* BA (Honours) in Economics | Queen’s University | Kingston, ON, Canada | 2007 – 2011
+* MS in Applied Urban Science and Informatics, New York University, New York,  2018 – 2019
+* BA (Honours) in Economics, Queen’s University, Kingston, ON, Canada,  2007 – 2011
 
 Work Experience
 ======
-* Data Scientist Intern | ARGO Labs | Brooklyn, NY | 2018 - Present
+* Data Scientist Intern, ARGO Labs, Brooklyn, NY , 2018 - Present
 
-* Independent Consultant | 2017 – Present
+* Independent Consultant, 2017 – Present
 
-* Senior Manager, Commercial Strategy | Rogers Communications | Toronto, ON | 2016 – 2017
+* Senior Manager (Commercial Strategy), Rogers Communications, Toronto, ON, 2016 – 2017
 
-* Senior Consultant | Ernst & Young LLP | Toronto, ON | 2014 – 2016
+* Senior Consultant, Ernst & Young LLP, Toronto, ON, 2014 – 2016
 
-* Lead Associate | Novantas, Inc. | Toronto, ON | 2012 – 2014
+* Lead Associate, Novantas, Inc., Toronto, ON , 2012 – 2014
 
-* Researcher | Institute for Competitiveness and Prosperity | Toronto, ON | 2011 – 2012
+* Researcher, Institute for Competitiveness and Prosperity, Toronto, ON, 2011 – 2012
   
 Technical Skills
 ======
 * Programming Languages:
- * Python
-    * Keras
-    * Matplotlib
-    * NetworkX
-    * Numpy
-    * Pandas
-    * Sci-kit Learn
+  * Python
+   * Keras
+   * Matplotlib
+   * NetworkX
+   * Numpy
+   * Pandas
+   * Sci-kit Learn
   * D3.js
-* Data Processing Tools:
+* Big Data Tools:
   * Hadoop
   * Hive
   * NoSQL
