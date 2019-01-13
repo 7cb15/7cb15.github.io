@@ -11,8 +11,8 @@ redirect_from:
 
 Education
 ======
-* MS in Applied Urban Science and Informatics, New York University, New York,  2018 – 2019
-* BA (Honours) in Economics, Queen’s University, Kingston, ON, Canada,  2007 – 2011
+* Master of Science in Applied Urban Science and Informatics, New York University, New York,  2018 – 2019
+* Bachelor of Arts (Honours) in Economics, Queen’s University, Kingston, ON, Canada,  2007 – 2011
 
 Work Experience
 ======
@@ -31,13 +31,7 @@ Work Experience
 Technical Skills
 ======
 * Programming Languages:
-  * Python
-   * Keras
-   * Matplotlib
-   * NetworkX
-   * Numpy
-   * Pandas
-   * Sci-kit Learn
+  * Python (e.g. Keras, Matplotlib, NetworkX, Numpy, Pandas, Sci-kit Learn)
   * D3.js
 * Big Data Tools:
   * Hadoop
