@@ -1,16 +1,15 @@
 # main links links
 main:
-  - title: "Projects"
-    url: /projects/
-
-  - title: "Photography"
-    url: /photography/    
-
-  - title: "Kitchen"
-    url: /kitchen/    
     
   - title: "Portfolio"
     url: /portfolio/
     
   - title: "CV"
     url: /cv/
+
+  - title: "Photography"
+    url: /photography/    
+
+  - title: "Kitchen"
+    url: /kitchen/    
+
