@@ -21,6 +21,8 @@ What I'm Working On Right Now
 
 Excited to start the Spring Semester of my Master of Science program at [NYU CUSP](http://cusp.nyu.edu/). Course work this semester includes: Applied machine learning, deep learning, big data management platforms (Spark, Hadoop, Hive), and a course on processing and analyzing remote sensing data (image, video, sound, high frequency gps, etc).
 
+I am working with [DataKind](https://www.datakind.org/) as a volunteer on a collaborative project with Google to evaluate start-ups that use AI technology to enhance the public good. 
+
 # Coding
 
 I continue to collaborate on projects with [ARGO Labs](http://www.argolabs.org/) as a Data Science Intern. We're wrapping up a project that predicts [snow water equivalent in the Sierra Mountains](https://github.com/California-Data-Collaborative/snowbot), including a bot that posts the daily estimates to Twitter.
