@@ -30,16 +30,15 @@ Work Experience
   
 Technical Skills
 ======
-* Programming Languages:
+* Languages:
   * Python (e.g. Keras, Matplotlib, NetworkX, Numpy, Pandas, Sci-kit Learn)
   * D3.js
+  * SQL
 * Data Processing Tools:
   * Hadoop
   * Hive
-  * NoSQL
+  * Pig
   * Spark
-* Database Languages:
-  * SQL
 * Other: 
   * Excel
   * R 
@@ -48,5 +47,5 @@ Technical Skills
 Publications
 ======
 
-* Stanislav Sobolevsky, Philipp Kats, Colin Bradley, Mingyi He and Sergey Malinchik. Anomaly detection in Temporal Networks. (forthcoming) 
+* Stanislav Sobolevsky, Philipp Kats, Colin Bradley, Mingyi He and Sergey Malinchik. Anomaly Detection in Temporal Networks. (forthcoming) 
 * [Small Business, Entrepreneurship, and Innovation](https://www.competeprosper.ca/uploads/ICAP_WP15_Final.pdf). Institute for Competitiveness and Prosperity. Working Paper No. 15. Feb, 2012.
